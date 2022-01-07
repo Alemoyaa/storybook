@@ -20,7 +20,7 @@ export interface Props {
     /**
      * Color personalized
      */
-    fontColor?: 'primary' | 'secondary' | 'tertiary';
+    fontColor?: string;
 
 }
 
